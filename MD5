@@ -1,4 +1,4 @@
-1561bb35b4cb1a51d1794dd50584f07f *DESCRIPTION
+72b3f7a35aea399693b8fef58c28f46e *DESCRIPTION
 3d09161adeb56c88e0e45fd1db8992e3 *NAMESPACE
 f8f82a8fce58a6835948ce79060f101a *R/MAD.R
 8eb9ac6212b52cf46c2e71344a6c530f *R/RMSE.R
@@ -7,7 +7,7 @@ cbddb336b22ca53bc7d0030ccd8ab29b *R/RcppExports.R
 5f80cc91dbfd3e2434a55d2c1cb70be4 *R/bin2dec.R
 a51c3b4db1b39a6b95f69d404292d801 *R/blatent.R
 5031c91c8755eee3fed8efae4a53a158 *R/blatentControl.R
-88bbd7d1df20fa390fcde184764f3917 *R/blatentEstimate.R
+4fc8d4ea2654174c62dfc32367d6bd4c *R/blatentEstimate.R
 9c75e37c1bcbc45915727d081bb167a5 *R/blatentPPMC.R
 da26b4d21a0cdc00145506e3a515ca2e *R/blatentSimulate.R
 cc1161ed5c5def46523666c3cb2e92b5 *R/blatentSyntax.R
@@ -81,7 +81,7 @@ d65c56466e1c6709ae0d55c5cc9a319b *README.md
 cfb76a20db60d87d872c8f48f9156816 *inst/include/blatent_RcppExports.h
 bde51c88ea1ab4aed18c09acaded2870 *man/blatent.Rd
 c6c6793639ee54887aff7ff66809cfb0 *man/blatentControl.Rd
-4aebc35052ca46193d7cda80657848bc *man/blatentEstimate.Rd
+df589c35859672a78a90ab1a74c72f0e *man/blatentEstimate.Rd
 3e03b794e20ba6537d030edd31c87893 *man/blatentPPMC.Rd
 6f56fdd12e9cabbd2382e7782e0a56d3 *man/blatentSimulate.Rd
 7b160c18ca13ab739ca44c5df8433e6d *man/blatentSyntax.Rd

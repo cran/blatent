@@ -2,8 +2,8 @@
 % Please edit documentation in R/blatentEstimate.R
 \name{blatentEstimate}
 \alias{blatentEstimate}
-\title{Use blatent to estimate a Bayesian latent variable model. Currently supports estimation of an LCDM (Loglinar Cognitive
-Diagnosis Model)-like model using a probit link function.}
+\title{Use blatent to estimate a Bayesian latent variable model. Currently supports estimation of the LCDM (Loglinar Cognitive
+Diagnosis Model).}
 \usage{
 blatentEstimate(
   dataMat,

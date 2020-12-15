@@ -1,5 +1,5 @@
-#' Use blatent to estimate a Bayesian latent variable model. Currently supports estimation of an LCDM (Loglinar Cognitive
-#' Diagnosis Model)-like model using a probit link function.
+#' Use blatent to estimate a Bayesian latent variable model. Currently supports estimation of the LCDM (Loglinar Cognitive
+#' Diagnosis Model).
 #'
 #' @description
 #' Blatantly runs Bayesian latent variable models.
