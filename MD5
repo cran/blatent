@@ -1,5 +1,6 @@
-b2c3b2f2e944684b39bbfa7b8beec2dc *DESCRIPTION
+5c3ee46f9face795019fd96fff991e92 *DESCRIPTION
 ebeeb76ff1fa736e2ecc9860e792d1d7 *NAMESPACE
+2590ff2eba331ace4edf56891af96582 *NEWS.md
 f8f82a8fce58a6835948ce79060f101a *R/MAD.R
 3c2623cb18343f792361c29aac6beff4 *R/QmatrixToBlatentSyntax.R
 8eb9ac6212b52cf46c2e71344a6c530f *R/RMSE.R
@@ -98,7 +99,7 @@ d186f0cb887fa7d2748f286ff5658c32 *man/setDefaultSimulatedParameters.Rd
 6c870d650a17b9ac71e62a15ec20018d *man/setPosteriorPredictiveCheckOptions.Rd
 40f139228735d306fdb28f5f16115521 *src/Makevars
 40f139228735d306fdb28f5f16115521 *src/Makevars.win
-f9f5e06d56a553c2446433756f43b5bb *src/RcppExports.cpp
+03a4b5e4c8a479dd882185dca5d77ade *src/RcppExports.cpp
 131664b64309a02661d4d8ec21635b13 *src/bernoulli_likelihood.cpp
 23426477fb320cc8680359f3304a5d0e *src/bernoulli_likelihood.h
 079bcbb93da85eefae1d6213255b2249 *src/bin2dec_Rcpp.cpp
